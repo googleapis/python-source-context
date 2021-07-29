@@ -3,7 +3,7 @@
 ### [0.1.2](https://www.github.com/googleapis/python-source-context/compare/v0.1.1...v0.1.2) (2021-07-29)
 
 
-### Features
+### Documentation
 
 * add Samples section to CONTRIBUTING.rst ([#6](https://www.github.com/googleapis/python-source-context/issues/6)) ([19c3b12](https://www.github.com/googleapis/python-source-context/commit/19c3b12f9b0447c975de206655784a19fd059d8e))
 
