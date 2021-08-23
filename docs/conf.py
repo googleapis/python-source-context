@@ -77,7 +77,7 @@ source_suffix = [".rst", ".md"]
 # source_encoding = 'utf-8-sig'
 
 # The master toctree document.
-master_doc = "index"
+root_doc = "index"
 
 # General information about the project.
 project = "google-cloud-source-context"
@@ -280,7 +280,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (
-        master_doc,
+        root_doc,
         "google-cloud-source-context.tex",
         "google-cloud-source-context Documentation",
         author,
@@ -315,7 +315,7 @@ latex_documents = [
 # (source start file, name, description, authors, manual section).
 man_pages = [
     (
-        master_doc,
+        root_doc,
         "google-cloud-source-context",
         "google-cloud-source-context Documentation",
         [author],
@@ -334,7 +334,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
     (
-        master_doc,
+        root_doc,
         "google-cloud-source-context",
         "google-cloud-source-context Documentation",
         author,
