@@ -14,9 +14,9 @@ Python Client for Source Context API
    :target: https://pypi.org/project/google-cloud-source-context/
 .. |versions| image:: https://img.shields.io/pypi/pyversions/google-cloud-source-context.svg
    :target: https://pypi.org/project/google-cloud-source-context/
-.. _Source Context API: 
+.. _Source Context API: https://cloud.google.com
 .. _Client Library Documentation: https://cloud.google.com/python/docs/reference/source/latest
-.. _Product Documentation:  
+.. _Product Documentation:  https://cloud.google.com
 
 Quick Start
 -----------
@@ -30,7 +30,7 @@ In order to use this library, you first need to go through the following steps:
 
 .. _Select or create a Cloud Platform project.: https://console.cloud.google.com/project
 .. _Enable billing for your project.: https://cloud.google.com/billing/docs/how-to/modify-project#enable_billing_for_a_project
-.. _Enable the Source Context API.:  
+.. _Enable the Source Context API.:  https://cloud.google.com
 .. _Setup Authentication.: https://googleapis.dev/python/google-api-core/latest/auth.html
 
 Installation
@@ -99,5 +99,5 @@ Next Steps
 -  View this `README`_ to see the full list of Cloud
    APIs that we cover.
 
-.. _Source Context API Product documentation:  
+.. _Source Context API Product documentation:  https://cloud.google.com
 .. _README: https://github.com/googleapis/google-cloud-python/blob/main/README.rst
